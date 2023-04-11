@@ -17,5 +17,7 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("This is from git2");
+        
+        System.out.println("This is from git1");
     }
 }
